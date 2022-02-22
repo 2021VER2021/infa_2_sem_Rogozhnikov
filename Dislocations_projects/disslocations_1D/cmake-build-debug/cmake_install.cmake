@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square
+# Install script for directory: C:/Users/Vasia&Misha/CLionProjects/disslocations_n_and_area
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Vasia&Misha/CLionProjects/disslocations_n_and_area/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

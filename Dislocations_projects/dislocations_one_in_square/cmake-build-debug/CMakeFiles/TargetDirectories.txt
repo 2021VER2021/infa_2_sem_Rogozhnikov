@@ -1,3 +1,3 @@
-C:/Users/Vasia&Misha/CLionProjects/disslocations/cmake-build-debug/CMakeFiles/untitled3.dir
-C:/Users/Vasia&Misha/CLionProjects/disslocations/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Vasia&Misha/CLionProjects/disslocations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug/CMakeFiles/untitled3.dir
+C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

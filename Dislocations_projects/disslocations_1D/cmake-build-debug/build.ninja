@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Vasia&Misha/CLionProjects/disslocations_n_and_area/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target untitled3
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_
 
 build cmake_object_order_depends_target_untitled3: phony || CMakeFiles/untitled3.dir
 
-build CMakeFiles/untitled3.dir/main.cpp.obj: CXX_COMPILER__untitled3_Debug C$:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/main.cpp || cmake_object_order_depends_target_untitled3
+build CMakeFiles/untitled3.dir/main.cpp.obj: CXX_COMPILER__untitled3_Debug C$:/Users/Vasia&Misha/CLionProjects/disslocations_n_and_area/main.cpp || cmake_object_order_depends_target_untitled3
   DEP_FILE = CMakeFiles\untitled3.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\untitled3.dir
@@ -81,7 +81,7 @@ build untitled3.exe: CXX_EXECUTABLE_LINKER__untitled3_Debug CMakeFiles/untitled3
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Vasia&Misha\infa_2_sem_Rogozhnikov\Dislocations_projects\dislocations_one_in_square\cmake-build-debug" && "D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Vasia&Misha\CLionProjects\disslocations_n_and_area\cmake-build-debug" && "D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Vasia&Misha\infa_2_sem_Rogozhnikov\Dislocations_projects\dislocations_one_in_square\cmake-build-debug" && "D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Vasia&Misha\infa_2_sem_Rogozhnikov\Dislocations_projects\dislocations_one_in_square" -B"C:\Users\Vasia&Misha\infa_2_sem_Rogozhnikov\Dislocations_projects\dislocations_one_in_square\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Vasia&Misha\CLionProjects\disslocations_n_and_area\cmake-build-debug" && "D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Vasia&Misha\CLionProjects\disslocations_n_and_area" -B"C:\Users\Vasia&Misha\CLionProjects\disslocations_n_and_area\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build untitled3: phony untitled3.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Vasia&Misha/infa_2_sem_Rogozhnikov/Dislocations_projects/dislocations_one_in_square/cmake-build-debug
+# Folder: C:/Users/Vasia&Misha/CLionProjects/disslocations_n_and_area/cmake-build-debug
 
 build all: phony untitled3.exe
 
