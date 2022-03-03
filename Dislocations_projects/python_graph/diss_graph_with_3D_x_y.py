@@ -3,8 +3,8 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 import numpy as np
 
-X = list(np.arange(4, 49, 1))
-Y = list(np.arange(4, 35, 1))
+X = list(np.arange(4, 34, 1))
+Y = list(np.arange(4, 34, 1))
 Z = [
 [2.009,4,4],
 [2.4536,4,5],
@@ -1360,7 +1360,8 @@ Z = [
 xgrid, ygrid = np.meshgrid(X, Y)
 zgrid = np.zeros([len(Y), len(X)])
 for i in range(len(Z)):
-    zgrid[Y.index(Z[i][1])][X.index(Z[i][2])] = Z[i][0]
+    if (Z[i][1] < 34) and (Z[i][2] < 34):
+        zgrid[Y.index(Z[i][1])][X.index(Z[i][2])] = Z[i][0]
 
 fig = pylab.figure()
 axes = Axes3D(fig)
